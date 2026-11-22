@@ -27,3 +27,7 @@ The notebook (`Adversarial_Training_Comparison_ResCNN_final.ipynb`) is written f
 - A GPU is strongly recommended — adversarial training on CPU is not practical.
 
 Run the cells in order, starting from the Imports and Configuration section.
+
+## Research poster
+
+`Research_Poster_A2_Landscape.pdf` is the A2 landscape poster summarizing this project — the defenses compared, the attack setup, and the headline results.
